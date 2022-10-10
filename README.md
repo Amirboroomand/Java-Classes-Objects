@@ -4,10 +4,8 @@ Everything in Java is associated with classes and objects, along with its attrib
 public class Main {
   int x = 5;
 }
-
-
-Create an Object
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Create an Object"
 
 In Java, an object is created from a class. We have already created the class named Main, so now we can use this to create objects.
 
